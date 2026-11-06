@@ -1,0 +1,35 @@
+{
+  "movies": [
+    {
+      "title": "hlo",
+      "genre": "Romance",
+      "year": 2006,
+      "image": "",
+      "rating": 4,
+      "status": "Watchlist",
+      "watchDate": "2015-03-01",
+      "review": "good",
+      "id": 1
+    },
+    {
+      "title": "jailer",
+      "genre": "Action",
+      "year": 2017,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr2YsAUFCRKk19q9drv1TFkuJAyaC6gHVF9Ij6mdNdNA&s=10",
+      "rating": 0,
+      "status": "Watched",
+      "watchDate": "2026-03-01",
+      "review": "",
+      "id": 2
+    }
+  ],
+  "downloads": [
+    {
+      "fileName": "CineTrack-Reviews-1793887955464.pdf",
+      "totalReviews": 1,
+      "averageRating": 4,
+      "downloadedAt": "2026-11-05T14:12:35.467Z",
+      "id": 1
+    }
+  ]
+}
